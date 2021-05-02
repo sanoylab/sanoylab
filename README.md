@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yonas
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning .net 5 and JavaScript eco-systems
+- 🌱 I’m currently learning .net 5 and different javascript frameworks and libraries
 - 💞️ I’m looking to collaborate on any cool projects
 - 📫 How to reach me expertsanoy@gmail.com
 
