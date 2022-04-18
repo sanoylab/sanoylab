@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yonas
 - 👀 I’m interested in coding
-- 🌱 I’m currently working on .net 6 and different javascript frameworks and libraries
+- 🌱 I’m currently working on .Net 6, Express, Drupal and different JavaScript frameworks and libraries
 - 💞️ I’m looking to collaborate on any cool projects
 - 📫 How to reach me expertsanoy@gmail.com
 
