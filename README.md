@@ -58,7 +58,7 @@ I care about clean boundaries, pragmatic trade-offs, and code that someone else 
 - Microsoft Certified: **Azure AI Engineer Associate**
 - Databricks Certified: **Generative AI Engineer Associate**
 - Google Cloud: **Generative AI Leader**
-- CompTia Project + **CompTia Project +**
+- CompTIA Project+ **CompTIA Project+**
 - Microsoft Certified Professional **MCP**
 - Microsoft Certified Technology Specialist **MCTS**
 
