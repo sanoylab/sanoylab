@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>Software Engineer · Solution Architect · Cloud & AI Builder</em><br/>
-  <em>itsyonas.com</em>
+   <a href="https://www.itsyonas.com" target="_blank">www.itsyonas.com</a>
 </p>
 
 <p align="center">
