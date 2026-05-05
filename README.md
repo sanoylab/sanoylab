@@ -48,7 +48,7 @@ I care about clean boundaries, pragmatic trade-offs, and code that someone else 
 ### 🚀 Currently Working On
 
 - 🛫 An **aviation security platform** — modular monolith in .NET 9 with CQRS and strict module boundaries
-- 🔄 Migrating a legacy **ASP.NET Web Forms** audit system into a modern .NET 9 codebase using a **strangler fig** approach
+- 🔄 Designing an AI-native platform that brings real reasoning to enterprise workflows — without the demo-day theatrics.
 - 🤖 Exploring **AI-augmented development workflows** and what they mean for how we build software
 
 ---
