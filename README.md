@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Yonas 👋</h1>
 
 <p align="center">
-  <em>Software Engineer · Solution Architect · Cloud & AI Builder</em><br/>
+  <em>Solution Architect · Cloud & AI Builder</em><br/>
    <a href="https://www.itsyonas.com" target="_blank">www.itsyonas.com</a>
 </p>
 
@@ -17,7 +17,7 @@
 
 ### 🧭 About Me
 
-I'm a software engineer with **16+ years of experience** designing and shipping systems across humanitarian, aviation, and enterprise domains — from UN-sector platforms (UNAIDS, UNICEF/Giga, UNOCHA) to modern cloud-native applications. Today I focus on **modular monolith architectures, .NET, Azure, and applied generative AI**.
+I'm a software architect with **16+ years of experience** designing and shipping systems across humanitarian, aviation, and enterprise domains — from UN-sector platforms (UNAIDS, UNICEF/Giga, UNOCHA) to modern cloud-native applications. Today I focus on **modular monolith architectures, .NET, Azure, and applied generative AI**.
 
 I care about clean boundaries, pragmatic trade-offs, and code that someone else can read on a Monday morning.
 
@@ -58,6 +58,9 @@ I care about clean boundaries, pragmatic trade-offs, and code that someone else 
 - Microsoft Certified: **Azure AI Engineer Associate**
 - Databricks Certified: **Generative AI Engineer Associate**
 - Google Cloud: **Generative AI Leader**
+- CompTia Project + **CompTia Project +**
+- Microsoft Certified Professional **MCP**
+- Microsoft Certified Technology Specialist **MCTS**
 
 ---
 
