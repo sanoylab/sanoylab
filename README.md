@@ -1,74 +1,38 @@
-<h1 align="center">Hi, I'm Yonas 👋</h1>
+<h1 align="center">Yonas</h1>
 
 <p align="center">
-  <em>Solution Architect · Cloud & AI Builder</em><br/>
-   <a href="https://www.itsyonas.com" target="_blank">www.itsyonas.com</a>
+  <strong>Solution Architect · Cloud &amp; AI Builder</strong><br/>
+  <sub>I build systems someone else can read on a Monday morning.</sub>
 </p>
 
 <p align="center">
-  <a href="mailto:expertsanoy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-expertsanoy%40gmail.com-informational?style=flat-square&logo=gmail&logoColor=white&color=0a66c2" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-.NET%20%7C%20Azure%20%7C%20GenAI-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=flat-square" />
+  <a href="https://www.itsyonas.com">itsyonas.com</a> &nbsp;·&nbsp;
+  <a href="mailto:expertsanoy@gmail.com">expertsanoy@gmail.com</a>
 </p>
 
 ---
 
-### 🧭 About Me
+Sixteen years designing and shipping software across humanitarian, aviation, and enterprise systems — UNAIDS, UNICEF/Giga, UNOCHA, and the platforms that keep aviation security running. These days I work in **.NET, Azure, and applied GenAI**, with a soft spot for modular monoliths, clean boundaries, and pragmatic trade-offs.
 
-I'm a software architect with **16+ years of experience** designing and shipping systems across humanitarian, aviation, and enterprise domains — from UN-sector platforms (UNAIDS, UNICEF/Giga, UNOCHA) to modern cloud-native applications. Today I focus on **modular monolith architectures, .NET, Azure, and applied generative AI**.
+### Building now
 
-I care about clean boundaries, pragmatic trade-offs, and code that someone else can read on a Monday morning.
+- 🛫 An aviation security platform — modular monolith in .NET 9, CQRS, strict module boundaries
+- 🤖 AI-native enterprise tooling — real reasoning, no demo-day theatrics
+- 🔧 Figuring out what AI-augmented development actually changes about how we ship
 
----
+### Stack
 
-### 🛠️ Tech I Work With
+`C#` · `.NET 9` · `EF Core` · `React` · `TypeScript` · `Python` · `Azure` · `SQL Server` · `Databricks` · `OpenAI / Anthropic APIs`
 
-**Languages**  
-`C#` · `TypeScript` · `JavaScript` · `Python` · `SQL`
+### Certified
 
-**Backend & Frameworks**  
-`.NET 9 / .NET Core` · `ASP.NET Core` · `EF Core` · `MediatR (CQRS)` · `Express` · `REST APIs`
-
-**Frontend**  
-`React` · `Blazor` · `Tailwind` · `HTML/CSS`
-
-**Cloud & Data**  
-`Azure` · `SQL Server` · `Azure SQL Edge` · `Databricks`
-
-**AI / GenAI**  
-`OpenAI / Anthropic APIs` · `RAG` · `LLM integration patterns`
-
-**Tooling**  
-`Git` · `Docker` · `tmux` · `Tailscale` · `Claude Code`
+Azure AI Engineer Associate · Databricks GenAI Engineer · Google Cloud GenAI Leader
 
 ---
 
-### 🚀 Currently Working On
-
-- 🛫 An **aviation security platform** — modular monolith in .NET 9 with CQRS and strict module boundaries
-- 🔄 Designing an AI-native platform that brings real reasoning to enterprise workflows — without the demo-day theatrics.
-- 🤖 Exploring **AI-augmented development workflows** and what they mean for how we build software
-
----
-
-### 📜 Certifications
-
-- Microsoft Certified: **Azure AI Engineer Associate**
-- Databricks Certified: **Generative AI Engineer Associate**
-- Google Cloud: **Generative AI Leader**
-- CompTIA Project+ **CompTIA Project+**
-- Microsoft Certified Professional **MCP**
-- Microsoft Certified Technology Specialist **MCTS**
-
----
-
-### 🤝 Let's Connect
-
-I'm open to collaborating on interesting engineering problems — especially around .NET architecture, cloud systems, and practical GenAI applications.
-
-📫 **expertsanoy@gmail.com**
+<p align="center">
+  <sub>Open to interesting problems in .NET architecture, cloud systems, and practical GenAI.</sub>
+</p>
 
 <!--
 sanoylab/sanoylab is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
