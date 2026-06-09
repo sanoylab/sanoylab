@@ -12,8 +12,6 @@
 
 ---
 
-Sixteen years designing and shipping software across humanitarian, aviation, and enterprise systems — UNAIDS, UNICEF/Giga, UNOCHA, and the platforms that keep aviation security running. These days I work in **.NET, Azure, and applied GenAI**, with a soft spot for modular monoliths, clean boundaries, and pragmatic trade-offs.
-
 ### Building now
 
 - 🛫 An aviation security platform — modular monolith in .NET 9, CQRS, strict module boundaries
