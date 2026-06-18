@@ -18,7 +18,7 @@ Currently: an aviation security platform in .NET 9 - modular monolith, CQRS, str
       </a>
     </td>
     <td valign="middle">
-      Jobs across the UN and international development sector, aggregated from agencies, funds, and programmes into one searchable feed.
+      UN Job Zone: Jobs across the UN and international development sector, aggregated from agencies, funds, and programmes into one searchable feed.
     </td>
   </tr>
 </table>
@@ -31,7 +31,7 @@ Currently: an aviation security platform in .NET 9 - modular monolith, CQRS, str
       </a>
     </td>
     <td valign="middle">
-      Point it at a folder of PDFs and get live REST APIs back, with schemas detected automatically and no parsing code to write.
+      ParseAPI: Point it at a folder of PDFs and get live REST APIs back, with schemas detected automatically and no parsing code to write.
     </td>
   </tr>
 </table>
