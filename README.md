@@ -11,11 +11,11 @@ Currently: an aviation security platform in .NET 9 - modular monolith, CQRS, str
 ### Building
 
 <a href="https://www.unjobzone.com">
-  <img src="assets/unjobzone.png" alt="UNjobzone" height="24" />
+  <img src="unjobzone.png" alt="UNjobzone" height="24" />
 </a> &nbsp; Jobs across the UN and international development sector.
 
 <a href="https://parseapi.dev">
-  <img src="assets/parseapi.png" alt="parseapi.dev" height="24" />
+  <img src="parseapi.png" alt="parseapi.dev" height="24" />
 </a> &nbsp; Folders of PDFs become live REST APIs, schemas detected automatically.
 
 [itsyonas.com](https://www.itsyonas.com) · [expertsanoy@gmail.com](mailto:expertsanoy@gmail.com)
