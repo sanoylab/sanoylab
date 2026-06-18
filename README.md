@@ -14,7 +14,7 @@ Currently: an aviation security platform in .NET 9 - modular monolith, CQRS, str
   <tr>
     <td valign="middle" width="190">
       <a href="https://www.unjobzone.com" target="_blank">
-        <img src="unjobzone.png" alt="UNjobzone" height="28" />
+        <img src="unjobzone.png" alt="UNjobzone" height="35" />
       </a>
     </td>
     <td valign="middle">
@@ -27,7 +27,7 @@ Currently: an aviation security platform in .NET 9 - modular monolith, CQRS, str
   <tr>
     <td valign="middle" width="190">
       <a href="https://parseapi.dev" target="_blank">
-        <img src="parseapi.png" alt="parseapi.dev" height="40" />
+        <img src="parseapi.png" alt="parseapi.dev" height="50" />
       </a>
     </td>
     <td valign="middle">
