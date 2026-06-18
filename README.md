@@ -2,9 +2,9 @@
 
 Solution Architect · Cloud & AI
 
-> I build systems someone else can read on a Monday morning.
+> Software isn't just my job. It's what I'd be building anyway.
 
-Currently: an aviation security platform in .NET 9 - modular monolith, CQRS, strict boundaries.
+Currently: an aviation security platform in .NET 9 — modular monolith, CQRS, strict boundaries.
 
 `C#` · `.NET 9` · `TypeScript` · `React` · `Azure` · `Databricks`
 
