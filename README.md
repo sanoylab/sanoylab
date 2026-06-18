@@ -10,23 +10,8 @@ Currently: an aviation security platform in .NET 9 - modular monolith, CQRS, str
 
 ### Building
 
-<table>
-  <tr>
-    <td valign="middle">
-      <a href="https://www.unjobzone.com">
-        <img src="unjobzone.png" alt="UNjobzone" height="26" />
-      </a>
-    </td>
-    <td valign="middle">Jobs across the UN and international development sector.</td>
-  </tr>
-  <tr>
-    <td valign="middle">
-      <a href="https://parseapi.dev">
-        <img src="parseapi.png" alt="parseapi.dev" height="26" />
-      </a>
-    </td>
-    <td valign="middle">Folders of PDFs become live REST APIs, schemas detected automatically.</td>
-  </tr>
-</table>
+<a href="https://www.unjobzone.com"><img src="unjobzone.png" alt="UNjobzone" height="26" /></a> &nbsp; Jobs across the UN and international development sector, aggregated from agencies, funds, and programmes into one searchable feed.
+
+<a href="https://parseapi.dev"><img src="parseapi.png" alt="parseapi.dev" height="26" /></a> &nbsp; Point it at a folder of PDFs and get live REST APIs back — schemas detected automatically, no parsing code to write.
 
 [itsyonas.com](https://www.itsyonas.com) · [expertsanoy@gmail.com](mailto:expertsanoy@gmail.com)
